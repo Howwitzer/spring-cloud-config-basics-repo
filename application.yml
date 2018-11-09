@@ -15,3 +15,4 @@ management:
   endpoint:
     health:
       show-details: always
+message: "Hello Spring Trav Cloud Config!"
